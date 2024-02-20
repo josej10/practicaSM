@@ -12,6 +12,7 @@ print('    2. Subtraction')
 print('    3. Multiplication')
 print('    4. Division')
 print('    5. Exit')
+print('    No hay mas opciones disponibles')
 
 # Main loop.
 while True:
